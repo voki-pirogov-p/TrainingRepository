@@ -1,0 +1,3 @@
+[submodule "SubmoduleRepository2"]
+	path = SubmoduleRepository2
+	url = https://github.com/voki-pirogov-p/SubmoduleRepository2
